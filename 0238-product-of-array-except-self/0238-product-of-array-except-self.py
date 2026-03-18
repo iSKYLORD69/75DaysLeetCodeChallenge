@@ -8,7 +8,6 @@ class Solution:
             result[i] = pre
             pre *= nums[i]
 
-        
         suf = 1
         for i in range(n - 1, -1, -1):
             result[i] *= suf
