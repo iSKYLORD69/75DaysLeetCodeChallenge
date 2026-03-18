@@ -9,7 +9,7 @@ class Solution:
             result[i] = pre
             pre *= nums[i]
 
-        
+        #This is suffix part
         suf = 1
         for i in range(n - 1, -1, -1):
             result[i] *= suf
