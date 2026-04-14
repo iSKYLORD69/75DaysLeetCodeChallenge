@@ -8,7 +8,7 @@
 class Solution:
     def invertTree(self, root):
         if not root:
-            return None
+            return None 
 
         # Swap left and right
         root.left, root.right = root.right, root.left
