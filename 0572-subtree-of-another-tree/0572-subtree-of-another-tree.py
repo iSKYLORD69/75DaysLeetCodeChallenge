@@ -19,7 +19,7 @@ class Solution:
 
         # Traverse root
         if not root:
-            return False
+            return True
 
         if isSameTree(root, subRoot):
             return True
