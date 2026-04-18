@@ -14,7 +14,7 @@ class Solution: #Solution
         if not root.left and not root.right:
             return targetSum == root.val
 
-        # Recurse on children
+        # Recurse on children nodes 
         remaining = targetSum - root.val
 
         return (self.hasPathSum(root.left, remaining) or
