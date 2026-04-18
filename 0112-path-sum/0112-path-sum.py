@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 
-class Solution:
+class Solution: #Solution 
     def hasPathSum(self, root, targetSum):
         if not root:
             return False
