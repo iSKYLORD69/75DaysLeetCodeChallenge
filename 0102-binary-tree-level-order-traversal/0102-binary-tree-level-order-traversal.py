@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 
-class Solution:
+class Solution: #Solution class
     def levelOrder(self, root):
         if not root:
             return []
