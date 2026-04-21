@@ -20,7 +20,7 @@ class Solution: #Solution class
                 node = queue.popleft()
                 level.append(node.val)
 
-                if node.left:
+                if node.left: #checks left of a node if empty then queue will get appended
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
