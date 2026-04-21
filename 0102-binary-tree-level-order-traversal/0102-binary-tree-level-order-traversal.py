@@ -22,7 +22,7 @@ class Solution: #Solution class
 
                 if node.left: #checks left of a node if empty then queue will get appended
                     queue.append(node.left)
-                if node.right:
+                if node.right: #checks right of a node if empty then queue will get appended
                     queue.append(node.right)
 
             result.append(level)
