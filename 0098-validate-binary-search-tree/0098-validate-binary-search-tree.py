@@ -1,3 +1,5 @@
+# Definition for a binary tree node.
+
 class Solution:
     def isValidBST(self, root):
         self.prev = None
