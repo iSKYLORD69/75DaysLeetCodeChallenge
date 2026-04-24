@@ -33,6 +33,7 @@ class Trie:
         node = self.root
 
         for ch in word:
+            # If character path doesn't exist, return None
             if ch not in node.children:
                 return None
             node = node.children[ch]
