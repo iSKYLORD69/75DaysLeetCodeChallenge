@@ -1,7 +1,7 @@
 class TrieNode:
     def __init__(self):
-        self.children = {}
-        self.is_end = False
+        self.children = {} # Dictionary to store child nodes (character -> TrieNode)
+        self.is_end = False  # Marks end of a complete word
 
 
 
