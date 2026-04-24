@@ -28,7 +28,8 @@ class Trie:
     def startsWith(self, prefix: str) -> bool:
         return self._traverse(prefix) is not None
 
-    def _traverse(self, word):
+    def _traverse(self, word):\
+        # Helper function to traverse the trie
         node = self.root
 
         for ch in word:
