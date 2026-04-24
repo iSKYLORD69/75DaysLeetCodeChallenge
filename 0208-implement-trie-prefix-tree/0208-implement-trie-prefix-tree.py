@@ -14,7 +14,8 @@ class Trie:
         node = self.root
 
         for ch in word:
-            if ch not in node.children:
+            # If character not present, create a new node
+            if ch not in node.children: 
                 node.children[ch] = TrieNode()
             node = node.children[ch]
 
