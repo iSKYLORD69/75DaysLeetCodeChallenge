@@ -27,6 +27,7 @@ class Trie:
         return node is not None and node.is_end
 
     def startsWith(self, prefix: str) -> bool:
+         # Check if prefix exists in trie
         return self._traverse(prefix) is not None
 
     def _traverse(self, word):\
