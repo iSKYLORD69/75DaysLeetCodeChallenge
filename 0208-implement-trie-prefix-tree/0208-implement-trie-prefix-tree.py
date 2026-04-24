@@ -22,6 +22,7 @@ class Trie:
         node.is_end = True
 
     def search(self, word: str) -> bool:
+        # Traverse the trie for the word
         node = self._traverse(word)
         return node is not None and node.is_end
 
