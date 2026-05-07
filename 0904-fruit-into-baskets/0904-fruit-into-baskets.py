@@ -10,7 +10,8 @@ class Solution:
             fruit = fruits[right]
 
             count[fruit] = count.get(fruit, 0) + 1
-             # More than 2 fruit types
+
+            # More than 2 fruit types
             while len(count) > 2:
                 left_fruit = fruits[left]
 
@@ -24,5 +25,3 @@ class Solution:
             max_len = max(max_len, right - left + 1)
 
         return max_len
-
-           
