@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
