@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Union-Find
 |  |
 | ------- |
