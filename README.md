@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2413-smallest-even-multiple](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
 ## Monotonic Stack
 |  |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2413-smallest-even-multiple](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
