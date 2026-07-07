@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -478,10 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
