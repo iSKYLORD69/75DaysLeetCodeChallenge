@@ -1,19 +1,20 @@
-from typing import List
-
 class Solution:
-    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        stack = []
-        next_greater = {}
+    def nextGreaterElement(self, nums1, nums2):
 
-        for num in nums2:
-            while stack and num > stack[-1]:
-                smaller = stack.pop()
-                next_greater[smaller] = num
+        ans = []
 
-            stack.append(num)
+        for num in nums1:
 
-        # Remaining elements have no greater element
-        while stack:
-            next_greater[stack.pop()] = -1
+            index = nums2.index(num)
 
-        return [next_greater[num] for num in nums1]
+            found = -1
+
+            for j in range(index + 1, len(nums2)):
+
+                if nums2[j] > num:
+                    found = nums2[j]
+                    break
+
+            ans.append(found)
+
+        return ans
