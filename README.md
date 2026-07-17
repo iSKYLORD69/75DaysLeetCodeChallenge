@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
@@ -516,4 +517,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
