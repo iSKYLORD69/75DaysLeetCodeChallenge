@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
