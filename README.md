@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Brainteaser
 |  |
 | ------- |
