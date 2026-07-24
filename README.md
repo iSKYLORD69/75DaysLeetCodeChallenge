@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -541,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
