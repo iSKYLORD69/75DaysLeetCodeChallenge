@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
