@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 ## Merge Sort
 |  |
