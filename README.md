@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 ## Merge Sort
 |  |
