@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/iSKYLORD69/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Brainteaser
